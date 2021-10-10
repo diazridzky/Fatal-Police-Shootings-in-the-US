@@ -1,14 +1,5 @@
 # Analysis of US Police Shootings: Project Overview
 This project is an analysis of the dataset of every fatal shooting in the US since Jan 1st, 2015 by The Washington Post. The Post began tracking more than a dozen details about each killing by culling local news reports, law enforcement websites and social media and by monitoring independent databases such as Killed by Police and Fatal Encounters.
-The available features are:
-
-- Race of the deceased;
-- Circumstances of the shooting;
-- Whether the person was armed;
-- Whether the victim was experiencing a mental-health crisis;
-- Among others.
-
-In 2016, The Post is gathering additional information about each fatal shooting that occurs this year and is filing open-records requests with departments. More than a dozen additional details are being collected about officers in each shooting.
 
 Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us
 
@@ -16,5 +7,28 @@ Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-
 * Python Version: 3.9.5
 * Packages: pandas, matplotlib, seaborn, plotly express
 
+# Columns
+* ID
+* Name
+* Date
+* Manner of Death
+* Armed
+* Age
+* Gender
+* Race
+* City
+* State
+* Signs of Mental Illness
+* Threat Level
+* Flee
+* Body Camera
+
+# Data Cleaning
+After importing the data, I needed to clean it up then made the following changes and created the following variables:
+* Fill null values with Unspecified except the age column
+* Transformed the gender and race columns into their real names instead of just letters
+* Parsed the month and year out of date then made new columns for them
+* Grouped the age then made a new column named generation
+* Renamed the state column to code then made a new column named state that has been mapped with the state's real name instead of just abbreviation
 
 
