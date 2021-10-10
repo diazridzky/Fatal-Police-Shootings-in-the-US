@@ -37,6 +37,7 @@ I looked at the distributions of the data and the value counts for the various c
 ![by_mental_illness](https://user-images.githubusercontent.com/60106788/136690836-34be11ca-fe4c-4a89-9304-eba70889c192.PNG)
 ![by_gen](https://user-images.githubusercontent.com/60106788/136690896-85d6938f-1bdb-471c-8820-609fb4eefb6d.PNG)
 ![by_race](https://user-images.githubusercontent.com/60106788/136690841-452a0dc0-4730-490c-84ca-1eba6a5f05b5.PNG)
-![heatmap](https://user-images.githubusercontent.com/60106788/136690945-6050abff-e628-4473-bbb8-e9673c081d1c.PNG)
-![States Cases](https://user-images.githubusercontent.com/60106788/136690638-12705cf9-ccaa-4eb1-a387-0fed28f4d650.png) 
+![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
+![states_cases](https://user-images.githubusercontent.com/60106788/136691244-441fbcb3-777a-4488-878b-319b804fea1e.png)
+
 
