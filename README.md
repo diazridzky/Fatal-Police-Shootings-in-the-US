@@ -34,5 +34,9 @@ After importing the data, I needed to clean it up then made the following change
 # Exploratory Data Analysis
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from my analysis.
 
-![States Cases](https://user-images.githubusercontent.com/60106788/136690638-12705cf9-ccaa-4eb1-a387-0fed28f4d650.png)
+![by_mental_illness](https://user-images.githubusercontent.com/60106788/136690836-34be11ca-fe4c-4a89-9304-eba70889c192.PNG)
+![by_gen](https://user-images.githubusercontent.com/60106788/136690838-eb24019e-949a-41a7-a5da-46ec54eb5ea5.PNG) 
+![by_race](https://user-images.githubusercontent.com/60106788/136690841-452a0dc0-4730-490c-84ca-1eba6a5f05b5.PNG)
+![heatmap](https://user-images.githubusercontent.com/60106788/136690847-7b1ecdcd-ab25-4981-a63a-ca310f6df800.PNG)
+![States Cases](https://user-images.githubusercontent.com/60106788/136690638-12705cf9-ccaa-4eb1-a387-0fed28f4d650.png) 
 
