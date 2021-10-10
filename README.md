@@ -31,4 +31,8 @@ After importing the data, I needed to clean it up then made the following change
 * Grouped the age column then made a new column named generation
 * Renamed the state column to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
 
+# Exploratory Data Analysis
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from my analysis.
+
+![States Cases](https://user-images.githubusercontent.com/60106788/136690638-12705cf9-ccaa-4eb1-a387-0fed28f4d650.png)
 
