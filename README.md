@@ -5,7 +5,7 @@ Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-
 
 # Code and Libaries Used
 * Python Version: 3.9.5
-* Packages: pandas, matplotlib, seaborn, plotly express
+* Packages: pandas, matplotlib, seaborn, plotly
 
 # Columns
 * ID
