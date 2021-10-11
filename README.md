@@ -1,5 +1,5 @@
 # Analysis of US Police Shootings: Project Overview
-This project is an analysis of the dataset of every fatal shooting in the US since Jan 1st, 2015 by The Washington Post. The Post began tracking more than a dozen details about each killing by culling local news reports, law enforcement websites and social media and by monitoring independent databases such as Killed by Police and Fatal Encounters.
+This project is an analysis of the dataset of every fatal shooting in the US since Jan 1st, 2015 by The Washington Post. I engineered features from the generation of each age to mapping the state's real name, created graphs for each features, and created geographical plotting for every state.
 
 Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us
 
