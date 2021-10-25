@@ -32,7 +32,7 @@ After importing the data, I needed to clean it up then made the following change
 * Renamed the state to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
 
 # Exploratory Data Analysis
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from my analysis.
+Below are a few highlights from my analysis.
 
 ![by_mental_illness](https://user-images.githubusercontent.com/60106788/136690836-34be11ca-fe4c-4a89-9304-eba70889c192.PNG)
 ![by_gen](https://user-images.githubusercontent.com/60106788/136727027-5703a3f7-5448-4ab4-a160-74258ad5859b.PNG)
