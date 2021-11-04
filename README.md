@@ -1,10 +1,7 @@
 # Analysis of US Police Shootings: Project Overview
-This project is an analysis on the data containing every fatal police shooting in the US since Jan 1st, 2015 collected by The Washington Post. I engineered features from the generation of the victim's age to mapping the state's real name, made several graphs for each features, and created geographical plotting for every state.
+This project is an analysis on the data containing every fatal police shooting in the US since Jan 1st, 2015 collected by The Washington Post. My motivation is to understand the trend of police shootings in the US plus trying to solve what factors made the shootings occured.
 
 Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us
-
-# Motivation
-To understand the trend of police shootings in the US plus trying to solve what factors made the shootings occured.
 
 # Code and Libaries Used
 * Python Version: 3.9.5
