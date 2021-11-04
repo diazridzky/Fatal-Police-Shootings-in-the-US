@@ -29,7 +29,7 @@ After importing the data, I needed to clean it up then made the following change
 * Transformed the gender and race into their real names instead of letters
 * Parsed the month and year out of the date then made new columns for them
 * Grouped the age column then made a new column named generation
-* Renamed the state to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
+* Renamed the state column to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
 
 # Exploratory Data Analysis
 Below are a few highlights from my analysis.
