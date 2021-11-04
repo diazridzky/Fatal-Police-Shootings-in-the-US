@@ -4,7 +4,7 @@ This project is an analysis on the data containing every fatal police shooting i
 Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us
 
 # Motivation
-Understanding the trend of police shootings in the US with the hopes of giving an insight on what factors made the shootings occured.
+Understanding the trend of police shootings in the US plus trying to solve what factors made the shootings occured.
 
 # Code and Libaries Used
 * Python Version: 3.9.5
