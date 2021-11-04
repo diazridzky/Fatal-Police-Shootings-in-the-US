@@ -1,5 +1,5 @@
 # Analysis of US Police Shootings: Project Overview
-This project is an analysis on the data containing every fatal police shooting in the US with the purpose of understanding the trend of police shootings in the US plus trying to solve what factors made the shootings occurred.
+This project is an analysis on the data containing every fatal police shooting in the US with the purpose of understanding the trend of police shootings in the US and trying to solve what factors made the shootings occurred.
 
 Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us
 
