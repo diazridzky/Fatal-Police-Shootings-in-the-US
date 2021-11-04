@@ -23,7 +23,7 @@ Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-
 * Flee
 * Body Camera
 
-# Data Cleaning & Feature Engineering
+# Data Cleaning 
 After importing the data, I needed to clean it up then made the following changes and created the following variables:
 * Filled null values with 'Unspecified' except age 
 * Transformed the gender and race into their real names instead of letters
@@ -38,6 +38,7 @@ Below are a few highlights from my analysis.
 ![by_gen](https://user-images.githubusercontent.com/60106788/136727027-5703a3f7-5448-4ab4-a160-74258ad5859b.PNG)
 ![top_ten_states](https://user-images.githubusercontent.com/60106788/136726720-db9a4184-e5da-4f0e-82c4-0d02b111f146.PNG)
 ![by_race](https://user-images.githubusercontent.com/60106788/136690841-452a0dc0-4730-490c-84ca-1eba6a5f05b5.PNG)
+![top_5_cities](https://user-images.githubusercontent.com/60106788/140319313-58348138-260c-4d8a-a367-95ee59f75618.PNG)
 ![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
 ![states_cases](https://user-images.githubusercontent.com/60106788/136691244-441fbcb3-777a-4488-878b-319b804fea1e.png)
 
