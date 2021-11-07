@@ -38,7 +38,7 @@ Below are a few highlights from my analysis.
 ![by_gen](https://user-images.githubusercontent.com/60106788/136727027-5703a3f7-5448-4ab4-a160-74258ad5859b.PNG)
 ![by_item](https://user-images.githubusercontent.com/60106788/140647332-62928e7f-d64f-4fe2-88e0-67089e9671f3.PNG)
 ![by_race](https://user-images.githubusercontent.com/60106788/140647320-1b357855-f756-4f14-a5d4-2f2b5b7e5900.PNG)
-![top_5_cities](https://user-images.githubusercontent.com/60106788/140319313-58348138-260c-4d8a-a367-95ee59f75618.PNG)
+![top_5_cities](https://user-images.githubusercontent.com/60106788/140647562-5713251f-af4b-478b-a92f-87a69518ac0f.PNG)
 ![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
 ![states_cases](https://user-images.githubusercontent.com/60106788/136691244-441fbcb3-777a-4488-878b-319b804fea1e.png)
 
