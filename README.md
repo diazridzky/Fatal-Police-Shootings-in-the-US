@@ -33,6 +33,7 @@ After importing the data, I needed to clean it up then made the following change
 
 # Exploratory Data Analysis
 After I cleaned and engineered the data, I analyze the data so I can get an insight out of it.
+
 Below are a few highlights from my analysis.
 
 ![by_mental_illness](https://user-images.githubusercontent.com/60106788/136690836-34be11ca-fe4c-4a89-9304-eba70889c192.PNG)
