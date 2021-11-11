@@ -32,6 +32,7 @@ After importing the data, I needed to clean it up then made the following change
 * Renamed the state column to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
 
 # Exploratory Data Analysis
+After I cleaned and engineered the data, I analyze the data so I can get an insight out of it.
 Below are a few highlights from my analysis.
 
 ![by_mental_illness](https://user-images.githubusercontent.com/60106788/136690836-34be11ca-fe4c-4a89-9304-eba70889c192.PNG)
@@ -43,7 +44,7 @@ Below are a few highlights from my analysis.
 ![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
 
 # Geographical Plotting
-After I did some exploratory data analysis I made a geographical plotting for cases in all US states using Plotly Express
+After I did some analysis I made a geographical plotting for cases in all US states using Plotly Express
 
 ![states_cases](https://user-images.githubusercontent.com/60106788/136691244-441fbcb3-777a-4488-878b-319b804fea1e.png)
 
