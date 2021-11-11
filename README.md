@@ -45,7 +45,7 @@ Below are a few highlights from my analysis.
 ![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
 
 # Geographical Plotting
-After I did some analysis I made a geographical plotting for cases in all US states using Plotly Express.
+After I did some analysis I made a geographical plotting for cases in every US state using Plotly Express.
 
 ![states_cases](https://user-images.githubusercontent.com/60106788/136691244-441fbcb3-777a-4488-878b-319b804fea1e.png)
 
