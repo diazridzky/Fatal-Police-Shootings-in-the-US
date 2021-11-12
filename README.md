@@ -23,7 +23,7 @@ Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-
 * Flee
 * Body Camera
 
-# Data Cleaning 
+# Data Cleansing 
 After importing the data, I needed to clean it up then made the following changes and created the following variables:
 * Filled null values with 'Unspecified' except age 
 * Transformed the gender and race into their real names instead of letters
