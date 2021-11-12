@@ -31,7 +31,7 @@ After importing the data, I needed to clean it up then made the following change
 * Grouped the age column then made a new column named generation
 * Renamed the state column to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
 
-# Exploratory Data Analysis
+# Exploratory Data Analysis & Data Visualization
 After I cleaned and engineered the data, I analyze the data so I could get an insight out of it.
 
 Below are a few highlights from my analysis.
