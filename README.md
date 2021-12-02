@@ -42,7 +42,7 @@ Below are a few highlights from my analysis.
 ![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
 
 # Dashboard
-After I did some cleaning and analysis with Python, I created a [dashboard using Tableau](https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard) for people to interact.
+After I did some cleaning and analysis with Python, I created a [dashboard using Tableau](https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard) for further analysis and for people to interact.
 
 ![Dashboard](https://user-images.githubusercontent.com/60106788/144366203-3a6f6311-3054-4e3f-a0ef-52cfcaf307a7.png)
 
