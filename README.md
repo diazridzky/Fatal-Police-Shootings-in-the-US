@@ -44,7 +44,8 @@ Below are a few highlights from my analysis.
 # Dashboard
 After I did some cleaning and analysis with Python, I moved on to creating a dashboard with Tableau for people to interact.
 
+Link to the dashboard: https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard
+
 ![Dashboard](https://user-images.githubusercontent.com/60106788/144366203-3a6f6311-3054-4e3f-a0ef-52cfcaf307a7.png)
 
-Link to the dashboard: https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard
 
