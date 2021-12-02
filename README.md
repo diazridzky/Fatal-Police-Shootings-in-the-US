@@ -36,17 +36,13 @@ After I cleaned and engineered the data, I analyze the data so I could get an in
 
 Below are a few highlights from my analysis.
 
-![race_ _gen](https://user-images.githubusercontent.com/60106788/141471339-516ce8cf-035c-48e3-9648-a576f2530b73.PNG)
 ![by_mental_illness](https://user-images.githubusercontent.com/60106788/136690836-34be11ca-fe4c-4a89-9304-eba70889c192.PNG)
 ![by_gen](https://user-images.githubusercontent.com/60106788/136727027-5703a3f7-5448-4ab4-a160-74258ad5859b.PNG)
 ![by_item](https://user-images.githubusercontent.com/60106788/140647332-62928e7f-d64f-4fe2-88e0-67089e9671f3.PNG)
-![by_race](https://user-images.githubusercontent.com/60106788/140647320-1b357855-f756-4f14-a5d4-2f2b5b7e5900.PNG)
-![top_5_cities](https://user-images.githubusercontent.com/60106788/140647914-c4ec7546-75da-4429-b362-7ca8e9501b82.PNG)
 ![heatmap](https://user-images.githubusercontent.com/60106788/136691246-db79eca0-82fb-48e1-8ac0-0f487268fb87.PNG)
 
-# Geographical Plotting
-After I did some analysis I made a geographical plotting for cases in every US state using Plotly Express.
+# Dashboard
+After I did some cleaning and analysis with Python, I moved on to creating a dashboard with Tableau for people to interact.
 
-![states_cases](https://user-images.githubusercontent.com/60106788/136691244-441fbcb3-777a-4488-878b-319b804fea1e.png)
-
+Link to the dashboard: https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard
 
