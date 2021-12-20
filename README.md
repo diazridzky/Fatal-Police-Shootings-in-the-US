@@ -24,8 +24,7 @@ Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-
 * Body Camera
 
 # Data Cleaning 
-After importing the data, I needed to clean it up then made the following changes and created the following variables:
-* Filled null values with 'Unspecified' except age 
+After importing the data, I needed to clean it up by filling null values with 'Unspecified' and then made the following changes:
 * Transformed the gender and race into their real names instead of letters
 * Parsed the month and year out of date then made new columns for them
 * Grouped the age column then made a new column named generation
