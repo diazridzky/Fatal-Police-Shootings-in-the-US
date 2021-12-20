@@ -27,7 +27,7 @@ Link to the dataset: https://www.kaggle.com/andrewmvd/police-deadly-force-usage-
 After importing the data, I needed to clean it up by filling null values with 'Unspecified' and then made the following changes:
 * Transformed the gender and race into their real names instead of letters
 * Parsed the month and year out of date then made new columns for them
-* Grouped the age column then made a new column named generation
+* Grouped the age column based on generation then made a new column named generation
 * Renamed the state column to code then made a new column named state that has been mapped with the state's real name instead of abbreviation
 
 # Exploratory Data Analysis
